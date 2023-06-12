@@ -1,0 +1,12 @@
+{
+    "name": "dafou/mon-ecommerce",
+    "description": "n",
+    "autoload": {
+        "psr-4": {
+            "Dafou\\MonEcommerce\\": "src/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
