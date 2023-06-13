@@ -1,3 +1,20 @@
 textarea {
     resize: none;
 }
+
+form {
+    padding: 20px ;
+    margin: auto;
+    width: 500px;
+    height: auto;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
